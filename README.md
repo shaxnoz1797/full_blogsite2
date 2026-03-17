@@ -1,2 +1,3 @@
-# full_blogsite
-full blog site in django
+
+
+Full blog site in Django
